@@ -1,0 +1,2 @@
+# FunCaptchaWiki
+FunCaptchaWiki
